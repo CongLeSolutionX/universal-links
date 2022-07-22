@@ -1,11 +1,11 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [
-			{
-				"appID": "KFCNEC27GU.com.razeware.UniveralLinksTutorial",
-				"paths": [ "*"]
-			}
-		]
-	}
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "99WD9D6Y46.com.CongLeSolutionX.UniversalLinks",
+      "paths": ["*"]
+    }
+    ]
+  }
 }
